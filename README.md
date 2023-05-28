@@ -1,2 +1,1 @@
-# mod_mar
-SCL Marathi module
+# SCL Marathi module
